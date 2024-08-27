@@ -1,10 +1,6 @@
 <!-- Hello World -->
 
 
-#### Version: 5.14.24++
-* **153 Currently Listed**
-* **Community Presets**
-* **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
